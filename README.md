@@ -1,2 +1,5 @@
-# The-2d-game-cars
-This game is something of a skeleton, you can take it for your game, but still I would like to make something perfect out of it, if you are interested in my thought, then please help me to do the work! I would be very grateful for the help.   P.S. I will attach 2 ReadMe in 2 languages.
+Greetings to all GitHub users. I've made something of a skeleton on this branch so far. I'm going to make a game in which there will be levels, police chases, car upgrades, as well as locations, dialogues, and the plot will also be present in the game. I hope you will take part in my project, I will be very grateful for your help. You can also take the game for yourself, I will try to explain all the difficulties in the code clearly, but most importantly, I will do it in 2 languages (also, if someone knows other languages, you will greatly help beginners to easily enter the IT sphere)
+
+If something is not clear to you, then write to me in Telegram, I will try to tell you in simple words and with a bunch of examples for your project.
+P.S https://t.me/NoLiferZadrot12340
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
